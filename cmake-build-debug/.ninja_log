@@ -1,0 +1,4 @@
+# ninja log v5
+6	281	7291016762293392	build.ninja	b9986770ed2e136d
+3	103	7290938082638672	CMakeFiles/RPNcalculator.dir/main.c.obj	34930d2cede4203e
+104	234	7290938083925297	RPNcalculator.exe	3a2883db090940f2
